@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,615;1,87.5,615&family=Quicksand:wght@300..700&display=swap');
+@import url("https://use.typekit.net/lxz2lto.css");
+
+.logoHeding {
+    font-weight: 800;
+    /* font-family: "Open Sans", sans-serif;    */
+    /* font-family: "Quicksand", sans-serif; */
+    font-size: 36px;
+}
+
+.sublinks {
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;   
+    /* font-family: "Quicksand", sans-serif; */
+    font-weight: 800 !important;
+
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.fullscreen-width {
+    min-width: 90vw;
+}

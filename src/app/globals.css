@@ -18,16 +18,24 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: white;
+  font-family: "Quicksand", sans-serif;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.font-openSan {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font-quicksand {
+  font-family: "Quicksand", sans-serif;
+
+}
+.card-fade-text-color{
+ color: #888792; 
 }

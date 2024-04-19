@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,87.5,615;1,87.5,615&family=Quicksand:wght@300..700&display=swap');
+@import url("https://use.typekit.net/lxz2lto.css");
+
+
+.flex-half {
+    flex: 80% !important;
+}
+
+.flex-full {
+    flex: 30% !important;
+}

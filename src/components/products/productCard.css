@@ -1,0 +1,26 @@
+.small-font {
+    font-size: 12px !important;
+}
+
+.heartIcon {
+    width: 24px;
+    height: 24px;
+
+}
+
+.productCard {
+    max-width: 300px !important;
+}
+
+.image-container {
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    padding: 3rem;
+}

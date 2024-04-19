@@ -1,0 +1,16 @@
+
+.heading{
+    font-family: "Quicksand", sans-serif;
+     font-weight: 400;
+    font-size: 60px;
+    font-variation-settings:
+    "wdth" 67.5;
+    max-width: 780px;
+ }
+ .subtitle{
+    font-family: "roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    max-width: 780px;
+ }
+ 
